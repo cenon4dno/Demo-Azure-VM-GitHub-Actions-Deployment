@@ -65,7 +65,7 @@
         <header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
         <div class="w3-display-left w3-text-white" style="padding:48px">
             <span class="w3-jumbo w3-hide-small"><?php echo $client_msg; ?></span><br>
-            <p><a href="https://github.com/cenon4dno/php-apache-mysql" target="_blank" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">GitHub Repo</a></p>
+            <p><a href="https://github.com/cenon4dno/php-apache-mysql" target="_blank" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">GitHub Repo (1)</a></p>
         </div> 
         </header>
     </body>

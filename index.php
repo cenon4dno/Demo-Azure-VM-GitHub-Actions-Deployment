@@ -67,7 +67,7 @@
             <span class="w3-jumbo w3-hide-small"><?php echo $client_msg; ?></span><br>
             <p>
                 <a href="https://github.com/cenon4dno/php-apache-mysql" target="_blank" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">
-                    GitHub Repo (4-GitHub)
+                    GitHub Repo Updated (5-GitHub)
                 </a>
             </p>
         </div> 
